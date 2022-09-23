@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.User{
+    height: 85px;
+    margin: 30px;
+    margin-top: -50px;
+    padding: 3px;
+    background-color: white;
+    border: 2px solid rgb(180, 175, 175);
+    border-radius: 50px;
+}
+.Location{
+    height: 20px;
+}
+h1{
+    font-size: 40px;
+    margin-top: -40px;
+    margin-left: 25px;
+}
+p{
+    display: inline-block;
+    margin-left: 10px;
+}
+#Container{
+    width: 700px;
+    margin: 0 auto;
+    padding-top: 2px;
+}
+#banner{
+    height: 100px;
+    background-color: rgb(17, 153, 174);
+}
+.context{
+    margin-top: -30px;
+    margin-left: 25px;
+}
+.Gear{
+    margin-top: -30px;
+    margin-left: 25px;
+    margin-top: 15px;
+    height: 15px;
+}
+label{
+    margin-top: -30px;
+    margin-left: 25px;
+}
+a{
+    margin-top: -30px;
+    margin-left: 5px;
+    color: rgb(14, 63, 161);
+}
+.container{
+    height: 240px;
+    border-top: 0px;
+    border-left: 2px solid rgb(200, 192, 192);
+    border-right: 2px solid rgb(200, 192, 192);
+    border-bottom: 2px solid rgb(200, 192, 192);
+}
